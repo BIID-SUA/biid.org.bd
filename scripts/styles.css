@@ -1,0 +1,176 @@
+*{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#333333;
+}
+
+body{
+	margin:0;
+	padding:0;
+}
+
+#wrapper{
+	text-align:center;
+	border:0;
+	width:100%;
+	margin:5px auto;
+}
+
+#content{
+	margin:15px 20px 0px 20px;
+	text-align:left;
+}
+
+.footer{
+	display:block;
+	float:none;
+	clear:both;
+	margin-top:5px;
+	font-size:9px;
+	color:#999999;
+}
+
+.heading{
+	font-size:13px;
+	font-weight:bold;
+}
+
+a, a:visited{
+	font-weight:bold;
+	text-decoration:none;
+}
+
+a:hover{
+	font-weight:bold;
+	text-decoration:underline;
+}
+
+.text{
+	border:1px solid #cccccc;
+	color:#666666;
+}
+
+.button{
+	border:1px solid #666666;
+	background-color:#999999;
+	color:#ffffff;
+	font-weight:bold;
+	padding:2px 6px 2px 6px;
+}
+
+th{
+	font-weight:bold;
+	text-align:center;
+}
+
+table.bordered{
+	/*border:1px solid #cccccc;*/
+	border-collapse:collapse;
+	border-width:1px;
+	border-color:#cccccc;
+}
+
+img{
+	border:0;
+}
+
+a.normal, a.normal:hover, a.normal:visited{
+	font-weight:normal;
+	text-decoration:none;
+}
+
+table.noborder td{
+	border-top:0;
+	border-right:0;
+	border-bottom:0;
+	border-left:0;
+}
+
+.errorcheck{
+	color:#666666;
+	border:1px solid #cccccc;
+	background-color:#f6f6f6;
+}
+
+.hilitebox{
+	border:1px solid black;
+}
+
+#menu_left{
+	margin:10px auto 10px 0;
+	overflow:hidden;
+	width:179px;
+	text-align:left;
+	#margin-left:0;
+}
+
+/*#menu_left ul{
+	list-style-type:none;
+	line-height:25px;
+	#line-height:14px;
+	margin-top:0;
+}
+
+#menu_left a, .menu_left a:visited{
+	font-size:11px;
+	font-weight:normal;
+	text-decoration:none;
+	width:179px;
+	height:16px;
+	padding:2px 150px 1px 20px;
+	#margin-left:20px;
+	#margin-right:10px;
+	#position:relative;
+}
+
+#menu_left a:hover{
+	font-weight:normal;
+	text-decoration:none;
+	background:#9f9eac url(../images/arrow.jpg);
+	background-repeat:no-repeat;
+	padding:2px 0 1px 20px;
+	
+}*/
+
+#news_panel{
+	width:200px;
+	text-align:left;
+	margin-top:15px;
+}
+
+.menulines{
+	font-size:11px;
+	font-weight:normal;
+	text-decoration:none;
+	width:179px;
+	height:16px;
+}
+
+.menulines a, .menulines a:visited, .menulines a:hover{
+	font-size:11px;
+	font-weight:normal;
+	text-decoration:none;
+	width:179px;
+	height:16px;
+	padding-left:20px;
+}
+
+.menulines2{
+	font-size:11px;
+	font-weight:normal;
+	text-decoration:none;
+	width:179px;
+	height:16px;
+	background:#9f9eac url(../images/arrow.jpg);
+	background-repeat:no-repeat;
+}
+
+.menulines2 a, .menulines2 a:visited, .menulines2 a:hover{
+	color:#FFFFFF;
+	font-size:11px;
+	font-weight:normal;
+	text-decoration:none;
+	width:179px;
+	height:16px;
+	padding-left:20px;
+}

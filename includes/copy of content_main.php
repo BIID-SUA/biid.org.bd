@@ -1,0 +1,8 @@
+<p>Bangladesh Institute of ICT in Development is a private initiative with the aim to support the development and promotion of Information and Communication Technology (ICT) based services in Bangladesh. </p>
+<p>Below is a list of some areas of services BIID is currently involved with: </p>
+<p><strong>Supporting and Scaling up of GP Community Information Centers </strong>: BIID is in the process of supporting Grameen Phone in replicating and expanding the existing number of Community Information Centers from 500 to 1000. </p>
+<p><strong>Agricultural Services for Rural Farmers </strong>: e-Krishok is a campaign aimed at rural farmers, with the goal of providing services which will benefit farmers both in terms of their farming activities and opening up new opportunities for increasing agricultural income. </p>
+<p><strong>Batighar </strong>: Batighar is the research and development center of e-Krishok campaign; it is used to test and design new concepts, services and ideas for the e-Krishok campaign. </p>
+<p><strong>Online Market Linkage </strong>: The Online Market Linkage portal is a mechanism through which SME producers and buyers can get in touch for mutual benefit. </p>
+<p><strong>Providing a Platform to Promote Rights-based Activities </strong>: e-Complain is a web based platform through which citizens will be able to voice their concerns, grievances and other issues. </p>
+<p><strong>Consultancy </strong>: BIID offers a range of consulting services that are aimed at contributing to improve livelihood, business development of enterprises and initiatives engaged in ICT enabled knowledge based services.</p>
